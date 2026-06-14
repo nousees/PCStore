@@ -1,0 +1,8 @@
+backend/.env
+.env.local
+node_modules/
+dist/
+*.exe
+*.dll
+*.so
+*.dylib
